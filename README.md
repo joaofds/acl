@@ -2,7 +2,6 @@
 
 ## Laravel 5.5 ACL (Access Control List)
 
-Implements
 In this application we are going to do the ACL implementation using Auth and Gate.
 - Laravel [documentation](https://laravel.com/docs/5.5/authentication)
 
